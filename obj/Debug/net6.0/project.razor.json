@@ -140,39 +140,6 @@
         }
       },
       {
-        "HashCode": 1113480984,
-        "Kind": "Components.Component",
-        "Name": "TestProject.Pages.Terra",
-        "AssemblyName": "TestProject",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Terra"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestProject.Pages.Terra"
-        }
-      },
-      {
-        "HashCode": -345052783,
-        "Kind": "Components.Component",
-        "Name": "TestProject.Pages.Terra",
-        "AssemblyName": "TestProject",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TestProject.Pages.Terra"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestProject.Pages.Terra",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1911371815,
         "Kind": "Components.Component",
         "Name": "TestProject.Shared.SurveyPrompt",
